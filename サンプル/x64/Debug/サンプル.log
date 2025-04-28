@@ -1,0 +1,5 @@
+﻿  Game.cpp
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(27,1): error C2143: 構文エラー: ';' が '}' の前にありません。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(42,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(42,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(42,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
