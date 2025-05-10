@@ -1,11 +1,15 @@
 ﻿  Game.cpp
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(104,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(104,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(110,74): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(110,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(115,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(115,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(115,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(116,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(116,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-  サンプル.vcxproj -> E:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\x64\Debug\サンプル.exe
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(150,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(150,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(153,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(153,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(157,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(157,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(164,74): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(164,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(169,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(169,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(169,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(175,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\program\Game.cpp(175,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  サンプル.vcxproj -> F:\2_SGC_Yasunori_2\05_Unity\01_\Bubble_Bobble_\x64\Debug\サンプル.exe
